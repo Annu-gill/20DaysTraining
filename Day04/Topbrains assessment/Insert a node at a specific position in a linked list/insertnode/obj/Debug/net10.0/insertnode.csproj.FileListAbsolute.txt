@@ -1,0 +1,15 @@
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Insert a node at a specific position in a linked list\insertnode\bin\Debug\net10.0\insertnode.exe
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Insert a node at a specific position in a linked list\insertnode\bin\Debug\net10.0\insertnode.deps.json
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Insert a node at a specific position in a linked list\insertnode\bin\Debug\net10.0\insertnode.runtimeconfig.json
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Insert a node at a specific position in a linked list\insertnode\bin\Debug\net10.0\insertnode.dll
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Insert a node at a specific position in a linked list\insertnode\bin\Debug\net10.0\insertnode.pdb
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Insert a node at a specific position in a linked list\insertnode\obj\Debug\net10.0\insertnode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Insert a node at a specific position in a linked list\insertnode\obj\Debug\net10.0\insertnode.AssemblyInfoInputs.cache
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Insert a node at a specific position in a linked list\insertnode\obj\Debug\net10.0\insertnode.AssemblyInfo.cs
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Insert a node at a specific position in a linked list\insertnode\obj\Debug\net10.0\insertnode.csproj.CoreCompileInputs.cache
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Insert a node at a specific position in a linked list\insertnode\obj\Debug\net10.0\insertnode.sourcelink.json
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Insert a node at a specific position in a linked list\insertnode\obj\Debug\net10.0\insertnode.dll
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Insert a node at a specific position in a linked list\insertnode\obj\Debug\net10.0\refint\insertnode.dll
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Insert a node at a specific position in a linked list\insertnode\obj\Debug\net10.0\insertnode.pdb
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Insert a node at a specific position in a linked list\insertnode\obj\Debug\net10.0\insertnode.genruntimeconfig.cache
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Insert a node at a specific position in a linked list\insertnode\obj\Debug\net10.0\ref\insertnode.dll

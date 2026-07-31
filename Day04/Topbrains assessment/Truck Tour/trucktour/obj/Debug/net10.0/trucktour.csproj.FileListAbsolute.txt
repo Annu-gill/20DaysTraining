@@ -1,0 +1,15 @@
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Truck Tour\trucktour\bin\Debug\net10.0\trucktour.exe
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Truck Tour\trucktour\bin\Debug\net10.0\trucktour.deps.json
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Truck Tour\trucktour\bin\Debug\net10.0\trucktour.runtimeconfig.json
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Truck Tour\trucktour\bin\Debug\net10.0\trucktour.dll
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Truck Tour\trucktour\bin\Debug\net10.0\trucktour.pdb
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Truck Tour\trucktour\obj\Debug\net10.0\trucktour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Truck Tour\trucktour\obj\Debug\net10.0\trucktour.AssemblyInfoInputs.cache
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Truck Tour\trucktour\obj\Debug\net10.0\trucktour.AssemblyInfo.cs
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Truck Tour\trucktour\obj\Debug\net10.0\trucktour.csproj.CoreCompileInputs.cache
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Truck Tour\trucktour\obj\Debug\net10.0\trucktour.sourcelink.json
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Truck Tour\trucktour\obj\Debug\net10.0\trucktour.dll
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Truck Tour\trucktour\obj\Debug\net10.0\refint\trucktour.dll
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Truck Tour\trucktour\obj\Debug\net10.0\trucktour.pdb
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Truck Tour\trucktour\obj\Debug\net10.0\trucktour.genruntimeconfig.cache
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Truck Tour\trucktour\obj\Debug\net10.0\ref\trucktour.dll

@@ -1,0 +1,15 @@
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Postorder Traversal\postorder\bin\Debug\net10.0\postorder.exe
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Postorder Traversal\postorder\bin\Debug\net10.0\postorder.deps.json
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Postorder Traversal\postorder\bin\Debug\net10.0\postorder.runtimeconfig.json
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Postorder Traversal\postorder\bin\Debug\net10.0\postorder.dll
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Postorder Traversal\postorder\bin\Debug\net10.0\postorder.pdb
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Postorder Traversal\postorder\obj\Debug\net10.0\postorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Postorder Traversal\postorder\obj\Debug\net10.0\postorder.AssemblyInfoInputs.cache
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Postorder Traversal\postorder\obj\Debug\net10.0\postorder.AssemblyInfo.cs
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Postorder Traversal\postorder\obj\Debug\net10.0\postorder.csproj.CoreCompileInputs.cache
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Postorder Traversal\postorder\obj\Debug\net10.0\postorder.sourcelink.json
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Postorder Traversal\postorder\obj\Debug\net10.0\postorder.dll
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Postorder Traversal\postorder\obj\Debug\net10.0\refint\postorder.dll
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Postorder Traversal\postorder\obj\Debug\net10.0\postorder.pdb
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Postorder Traversal\postorder\obj\Debug\net10.0\postorder.genruntimeconfig.cache
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Postorder Traversal\postorder\obj\Debug\net10.0\ref\postorder.dll

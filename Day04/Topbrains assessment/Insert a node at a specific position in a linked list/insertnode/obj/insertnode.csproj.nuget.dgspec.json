@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Arrays-DS\\arrayds\\arrayds.csproj": {}
+    "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Insert a node at a specific position in a linked list\\insertnode\\insertnode.csproj": {}
   },
   "projects": {
-    "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Arrays-DS\\arrayds\\arrayds.csproj": {
+    "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Insert a node at a specific position in a linked list\\insertnode\\insertnode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Arrays-DS\\arrayds\\arrayds.csproj",
-        "projectName": "arrayds",
-        "projectPath": "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Arrays-DS\\arrayds\\arrayds.csproj",
+        "projectUniqueName": "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Insert a node at a specific position in a linked list\\insertnode\\insertnode.csproj",
+        "projectName": "insertnode",
+        "projectPath": "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Insert a node at a specific position in a linked list\\insertnode\\insertnode.csproj",
         "packagesPath": "C:\\Users\\annug\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Arrays-DS\\arrayds\\obj\\",
+        "outputPath": "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Insert a node at a specific position in a linked list\\insertnode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

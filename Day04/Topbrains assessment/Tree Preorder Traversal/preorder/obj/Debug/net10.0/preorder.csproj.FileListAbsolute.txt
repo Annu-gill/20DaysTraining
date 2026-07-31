@@ -1,0 +1,15 @@
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Preorder Traversal\preorder\bin\Debug\net10.0\preorder.exe
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Preorder Traversal\preorder\bin\Debug\net10.0\preorder.deps.json
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Preorder Traversal\preorder\bin\Debug\net10.0\preorder.runtimeconfig.json
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Preorder Traversal\preorder\bin\Debug\net10.0\preorder.dll
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Preorder Traversal\preorder\bin\Debug\net10.0\preorder.pdb
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Preorder Traversal\preorder\obj\Debug\net10.0\preorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Preorder Traversal\preorder\obj\Debug\net10.0\preorder.AssemblyInfoInputs.cache
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Preorder Traversal\preorder\obj\Debug\net10.0\preorder.AssemblyInfo.cs
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Preorder Traversal\preorder\obj\Debug\net10.0\preorder.csproj.CoreCompileInputs.cache
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Preorder Traversal\preorder\obj\Debug\net10.0\preorder.sourcelink.json
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Preorder Traversal\preorder\obj\Debug\net10.0\preorder.dll
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Preorder Traversal\preorder\obj\Debug\net10.0\refint\preorder.dll
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Preorder Traversal\preorder\obj\Debug\net10.0\preorder.pdb
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Preorder Traversal\preorder\obj\Debug\net10.0\preorder.genruntimeconfig.cache
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Preorder Traversal\preorder\obj\Debug\net10.0\ref\preorder.dll
