@@ -1,0 +1,15 @@
+C:\Users\annug\LPUEx\Day01_Prac\OrderManagement\OrderManage\bin\Debug\net10.0\OrderManage.exe
+C:\Users\annug\LPUEx\Day01_Prac\OrderManagement\OrderManage\bin\Debug\net10.0\OrderManage.deps.json
+C:\Users\annug\LPUEx\Day01_Prac\OrderManagement\OrderManage\bin\Debug\net10.0\OrderManage.runtimeconfig.json
+C:\Users\annug\LPUEx\Day01_Prac\OrderManagement\OrderManage\bin\Debug\net10.0\OrderManage.dll
+C:\Users\annug\LPUEx\Day01_Prac\OrderManagement\OrderManage\bin\Debug\net10.0\OrderManage.pdb
+C:\Users\annug\LPUEx\Day01_Prac\OrderManagement\OrderManage\obj\Debug\net10.0\OrderManage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\LPUEx\Day01_Prac\OrderManagement\OrderManage\obj\Debug\net10.0\OrderManage.AssemblyInfoInputs.cache
+C:\Users\annug\LPUEx\Day01_Prac\OrderManagement\OrderManage\obj\Debug\net10.0\OrderManage.AssemblyInfo.cs
+C:\Users\annug\LPUEx\Day01_Prac\OrderManagement\OrderManage\obj\Debug\net10.0\OrderManage.csproj.CoreCompileInputs.cache
+C:\Users\annug\LPUEx\Day01_Prac\OrderManagement\OrderManage\obj\Debug\net10.0\OrderManage.sourcelink.json
+C:\Users\annug\LPUEx\Day01_Prac\OrderManagement\OrderManage\obj\Debug\net10.0\OrderManage.dll
+C:\Users\annug\LPUEx\Day01_Prac\OrderManagement\OrderManage\obj\Debug\net10.0\refint\OrderManage.dll
+C:\Users\annug\LPUEx\Day01_Prac\OrderManagement\OrderManage\obj\Debug\net10.0\OrderManage.pdb
+C:\Users\annug\LPUEx\Day01_Prac\OrderManagement\OrderManage\obj\Debug\net10.0\OrderManage.genruntimeconfig.cache
+C:\Users\annug\LPUEx\Day01_Prac\OrderManagement\OrderManage\obj\Debug\net10.0\ref\OrderManage.dll
