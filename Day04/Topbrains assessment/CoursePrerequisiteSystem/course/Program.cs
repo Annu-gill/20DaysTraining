@@ -273,29 +273,29 @@ class Program
         graph.AddEdge(3, 5);
         graph.AddEdge(4, 5);
 
-        Console.WriteLine("================================");
+        Console.WriteLine("----------------------------------------");
         graph.DisplayGraph();
 
-        Console.WriteLine("\n================================");
+        Console.WriteLine("----------------------------------------");
         graph.PrintAllPrerequisites(5);
 
-        Console.WriteLine("\n================================");
+        Console.WriteLine("----------------------------------------");
         graph.PrintDirectPrerequisites(3);
 
-        Console.WriteLine("\n================================");
+        Console.WriteLine("----------------------------------------");
         if (graph.HasCycle())
             Console.WriteLine("Graph contains a cycle.");
         else
             Console.WriteLine("Graph has no cycle.");
 
-        Console.WriteLine("\n================================");
+        Console.WriteLine("----------------------------------------");
         if (!graph.HasCycle())
             graph.TopologicalSort();
 
-        Console.WriteLine("\n================================");
+        Console.WriteLine("----------------------------------------");
         graph.CoursesWithNoPrerequisites();
 
-        Console.WriteLine("\n================================");
+        Console.WriteLine("----------------------------------------");
         graph.CountDependents(2);
     }
 }
