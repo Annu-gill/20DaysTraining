@@ -17,7 +17,6 @@ class UndirectedGraph
     /// <summary>
     /// Constructor to initialize the graph.
     /// </summary>
-    /// <param name="v">Number of users</param>
     public UndirectedGraph(int v)
     {
         vertices = v;
