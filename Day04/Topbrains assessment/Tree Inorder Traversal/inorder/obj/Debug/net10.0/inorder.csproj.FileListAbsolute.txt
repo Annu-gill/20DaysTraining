@@ -1,0 +1,15 @@
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Inorder Traversal\inorder\bin\Debug\net10.0\inorder.exe
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Inorder Traversal\inorder\bin\Debug\net10.0\inorder.deps.json
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Inorder Traversal\inorder\bin\Debug\net10.0\inorder.runtimeconfig.json
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Inorder Traversal\inorder\bin\Debug\net10.0\inorder.dll
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Inorder Traversal\inorder\bin\Debug\net10.0\inorder.pdb
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Inorder Traversal\inorder\obj\Debug\net10.0\inorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Inorder Traversal\inorder\obj\Debug\net10.0\inorder.AssemblyInfoInputs.cache
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Inorder Traversal\inorder\obj\Debug\net10.0\inorder.AssemblyInfo.cs
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Inorder Traversal\inorder\obj\Debug\net10.0\inorder.csproj.CoreCompileInputs.cache
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Inorder Traversal\inorder\obj\Debug\net10.0\inorder.sourcelink.json
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Inorder Traversal\inorder\obj\Debug\net10.0\inorder.dll
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Inorder Traversal\inorder\obj\Debug\net10.0\refint\inorder.dll
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Inorder Traversal\inorder\obj\Debug\net10.0\inorder.pdb
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Inorder Traversal\inorder\obj\Debug\net10.0\inorder.genruntimeconfig.cache
+C:\Users\annug\20 Days Training\Day04\Topbrains assessment\Tree Inorder Traversal\inorder\obj\Debug\net10.0\ref\inorder.dll
