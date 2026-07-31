@@ -1,0 +1,15 @@
+C:\Users\annug\LPUEx\Day01_Prac\FraudDetectionSystem\FraudDetection\bin\Debug\net10.0\FraudDetection.exe
+C:\Users\annug\LPUEx\Day01_Prac\FraudDetectionSystem\FraudDetection\bin\Debug\net10.0\FraudDetection.deps.json
+C:\Users\annug\LPUEx\Day01_Prac\FraudDetectionSystem\FraudDetection\bin\Debug\net10.0\FraudDetection.runtimeconfig.json
+C:\Users\annug\LPUEx\Day01_Prac\FraudDetectionSystem\FraudDetection\bin\Debug\net10.0\FraudDetection.dll
+C:\Users\annug\LPUEx\Day01_Prac\FraudDetectionSystem\FraudDetection\bin\Debug\net10.0\FraudDetection.pdb
+C:\Users\annug\LPUEx\Day01_Prac\FraudDetectionSystem\FraudDetection\obj\Debug\net10.0\FraudDetection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\LPUEx\Day01_Prac\FraudDetectionSystem\FraudDetection\obj\Debug\net10.0\FraudDetection.AssemblyInfoInputs.cache
+C:\Users\annug\LPUEx\Day01_Prac\FraudDetectionSystem\FraudDetection\obj\Debug\net10.0\FraudDetection.AssemblyInfo.cs
+C:\Users\annug\LPUEx\Day01_Prac\FraudDetectionSystem\FraudDetection\obj\Debug\net10.0\FraudDetection.csproj.CoreCompileInputs.cache
+C:\Users\annug\LPUEx\Day01_Prac\FraudDetectionSystem\FraudDetection\obj\Debug\net10.0\FraudDetection.sourcelink.json
+C:\Users\annug\LPUEx\Day01_Prac\FraudDetectionSystem\FraudDetection\obj\Debug\net10.0\FraudDetection.dll
+C:\Users\annug\LPUEx\Day01_Prac\FraudDetectionSystem\FraudDetection\obj\Debug\net10.0\refint\FraudDetection.dll
+C:\Users\annug\LPUEx\Day01_Prac\FraudDetectionSystem\FraudDetection\obj\Debug\net10.0\FraudDetection.pdb
+C:\Users\annug\LPUEx\Day01_Prac\FraudDetectionSystem\FraudDetection\obj\Debug\net10.0\FraudDetection.genruntimeconfig.cache
+C:\Users\annug\LPUEx\Day01_Prac\FraudDetectionSystem\FraudDetection\obj\Debug\net10.0\ref\FraudDetection.dll

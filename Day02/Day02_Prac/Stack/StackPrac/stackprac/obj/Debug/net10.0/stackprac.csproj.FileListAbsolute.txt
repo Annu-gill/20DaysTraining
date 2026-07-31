@@ -1,0 +1,15 @@
+C:\Users\annug\LPUEx\Day02_Prac\Stack\StackPrac\stackprac\bin\Debug\net10.0\stackprac.exe
+C:\Users\annug\LPUEx\Day02_Prac\Stack\StackPrac\stackprac\bin\Debug\net10.0\stackprac.deps.json
+C:\Users\annug\LPUEx\Day02_Prac\Stack\StackPrac\stackprac\bin\Debug\net10.0\stackprac.runtimeconfig.json
+C:\Users\annug\LPUEx\Day02_Prac\Stack\StackPrac\stackprac\bin\Debug\net10.0\stackprac.dll
+C:\Users\annug\LPUEx\Day02_Prac\Stack\StackPrac\stackprac\bin\Debug\net10.0\stackprac.pdb
+C:\Users\annug\LPUEx\Day02_Prac\Stack\StackPrac\stackprac\obj\Debug\net10.0\stackprac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\LPUEx\Day02_Prac\Stack\StackPrac\stackprac\obj\Debug\net10.0\stackprac.AssemblyInfoInputs.cache
+C:\Users\annug\LPUEx\Day02_Prac\Stack\StackPrac\stackprac\obj\Debug\net10.0\stackprac.AssemblyInfo.cs
+C:\Users\annug\LPUEx\Day02_Prac\Stack\StackPrac\stackprac\obj\Debug\net10.0\stackprac.csproj.CoreCompileInputs.cache
+C:\Users\annug\LPUEx\Day02_Prac\Stack\StackPrac\stackprac\obj\Debug\net10.0\stackprac.sourcelink.json
+C:\Users\annug\LPUEx\Day02_Prac\Stack\StackPrac\stackprac\obj\Debug\net10.0\stackprac.dll
+C:\Users\annug\LPUEx\Day02_Prac\Stack\StackPrac\stackprac\obj\Debug\net10.0\refint\stackprac.dll
+C:\Users\annug\LPUEx\Day02_Prac\Stack\StackPrac\stackprac\obj\Debug\net10.0\stackprac.pdb
+C:\Users\annug\LPUEx\Day02_Prac\Stack\StackPrac\stackprac\obj\Debug\net10.0\stackprac.genruntimeconfig.cache
+C:\Users\annug\LPUEx\Day02_Prac\Stack\StackPrac\stackprac\obj\Debug\net10.0\ref\stackprac.dll

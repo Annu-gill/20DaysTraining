@@ -1,0 +1,29 @@
+C:\Users\annug\LPUEx\Day04_Prac\Tree\BTree\btree\obj\Debug\net10.0\btree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\LPUEx\Day04_Prac\Tree\BTree\btree\obj\Debug\net10.0\btree.AssemblyInfoInputs.cache
+C:\Users\annug\LPUEx\Day04_Prac\Tree\BTree\btree\obj\Debug\net10.0\btree.AssemblyInfo.cs
+C:\Users\annug\LPUEx\Day04_Prac\Tree\BTree\btree\obj\Debug\net10.0\btree.csproj.CoreCompileInputs.cache
+C:\Users\annug\LPUEx\Day04_Prac\Tree\BTree\btree\obj\Debug\net10.0\btree.sourcelink.json
+C:\Users\annug\LPUEx\Day04_Prac\Tree\BTree\btree\bin\Debug\net10.0\btree.exe
+C:\Users\annug\LPUEx\Day04_Prac\Tree\BTree\btree\bin\Debug\net10.0\btree.deps.json
+C:\Users\annug\LPUEx\Day04_Prac\Tree\BTree\btree\bin\Debug\net10.0\btree.runtimeconfig.json
+C:\Users\annug\LPUEx\Day04_Prac\Tree\BTree\btree\bin\Debug\net10.0\btree.dll
+C:\Users\annug\LPUEx\Day04_Prac\Tree\BTree\btree\bin\Debug\net10.0\btree.pdb
+C:\Users\annug\LPUEx\Day04_Prac\Tree\BTree\btree\obj\Debug\net10.0\btree.dll
+C:\Users\annug\LPUEx\Day04_Prac\Tree\BTree\btree\obj\Debug\net10.0\refint\btree.dll
+C:\Users\annug\LPUEx\Day04_Prac\Tree\BTree\btree\obj\Debug\net10.0\btree.pdb
+C:\Users\annug\LPUEx\Day04_Prac\Tree\BTree\btree\obj\Debug\net10.0\btree.genruntimeconfig.cache
+C:\Users\annug\LPUEx\Day04_Prac\Tree\BTree\btree\obj\Debug\net10.0\ref\btree.dll
+C:\Users\annug\20 Days Training\Day04\Day04_Prac\Tree\BTree\btree\bin\Debug\net10.0\btree.exe
+C:\Users\annug\20 Days Training\Day04\Day04_Prac\Tree\BTree\btree\bin\Debug\net10.0\btree.deps.json
+C:\Users\annug\20 Days Training\Day04\Day04_Prac\Tree\BTree\btree\bin\Debug\net10.0\btree.runtimeconfig.json
+C:\Users\annug\20 Days Training\Day04\Day04_Prac\Tree\BTree\btree\bin\Debug\net10.0\btree.dll
+C:\Users\annug\20 Days Training\Day04\Day04_Prac\Tree\BTree\btree\bin\Debug\net10.0\btree.pdb
+C:\Users\annug\20 Days Training\Day04\Day04_Prac\Tree\BTree\btree\obj\Debug\net10.0\btree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\20 Days Training\Day04\Day04_Prac\Tree\BTree\btree\obj\Debug\net10.0\btree.AssemblyInfoInputs.cache
+C:\Users\annug\20 Days Training\Day04\Day04_Prac\Tree\BTree\btree\obj\Debug\net10.0\btree.AssemblyInfo.cs
+C:\Users\annug\20 Days Training\Day04\Day04_Prac\Tree\BTree\btree\obj\Debug\net10.0\btree.csproj.CoreCompileInputs.cache
+C:\Users\annug\20 Days Training\Day04\Day04_Prac\Tree\BTree\btree\obj\Debug\net10.0\btree.dll
+C:\Users\annug\20 Days Training\Day04\Day04_Prac\Tree\BTree\btree\obj\Debug\net10.0\refint\btree.dll
+C:\Users\annug\20 Days Training\Day04\Day04_Prac\Tree\BTree\btree\obj\Debug\net10.0\btree.pdb
+C:\Users\annug\20 Days Training\Day04\Day04_Prac\Tree\BTree\btree\obj\Debug\net10.0\btree.genruntimeconfig.cache
+C:\Users\annug\20 Days Training\Day04\Day04_Prac\Tree\BTree\btree\obj\Debug\net10.0\ref\btree.dll

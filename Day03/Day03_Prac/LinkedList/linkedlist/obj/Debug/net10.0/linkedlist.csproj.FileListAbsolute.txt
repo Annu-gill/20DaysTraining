@@ -1,0 +1,15 @@
+C:\Users\annug\LPUEx\Day03_Prac\LinkedList\linkedlist\obj\Debug\net10.0\linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\LPUEx\Day03_Prac\LinkedList\linkedlist\obj\Debug\net10.0\linkedlist.AssemblyInfoInputs.cache
+C:\Users\annug\LPUEx\Day03_Prac\LinkedList\linkedlist\obj\Debug\net10.0\linkedlist.AssemblyInfo.cs
+C:\Users\annug\LPUEx\Day03_Prac\LinkedList\linkedlist\obj\Debug\net10.0\linkedlist.csproj.CoreCompileInputs.cache
+C:\Users\annug\LPUEx\Day03_Prac\LinkedList\linkedlist\obj\Debug\net10.0\linkedlist.sourcelink.json
+C:\Users\annug\LPUEx\Day03_Prac\LinkedList\linkedlist\bin\Debug\net10.0\linkedlist.exe
+C:\Users\annug\LPUEx\Day03_Prac\LinkedList\linkedlist\bin\Debug\net10.0\linkedlist.deps.json
+C:\Users\annug\LPUEx\Day03_Prac\LinkedList\linkedlist\bin\Debug\net10.0\linkedlist.runtimeconfig.json
+C:\Users\annug\LPUEx\Day03_Prac\LinkedList\linkedlist\bin\Debug\net10.0\linkedlist.dll
+C:\Users\annug\LPUEx\Day03_Prac\LinkedList\linkedlist\bin\Debug\net10.0\linkedlist.pdb
+C:\Users\annug\LPUEx\Day03_Prac\LinkedList\linkedlist\obj\Debug\net10.0\linkedlist.dll
+C:\Users\annug\LPUEx\Day03_Prac\LinkedList\linkedlist\obj\Debug\net10.0\refint\linkedlist.dll
+C:\Users\annug\LPUEx\Day03_Prac\LinkedList\linkedlist\obj\Debug\net10.0\linkedlist.pdb
+C:\Users\annug\LPUEx\Day03_Prac\LinkedList\linkedlist\obj\Debug\net10.0\linkedlist.genruntimeconfig.cache
+C:\Users\annug\LPUEx\Day03_Prac\LinkedList\linkedlist\obj\Debug\net10.0\ref\linkedlist.dll

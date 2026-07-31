@@ -1,0 +1,15 @@
+C:\Users\annug\LPUEx\Day03_Prac\Tree\tree\bin\Debug\net10.0\tree.exe
+C:\Users\annug\LPUEx\Day03_Prac\Tree\tree\bin\Debug\net10.0\tree.deps.json
+C:\Users\annug\LPUEx\Day03_Prac\Tree\tree\bin\Debug\net10.0\tree.runtimeconfig.json
+C:\Users\annug\LPUEx\Day03_Prac\Tree\tree\bin\Debug\net10.0\tree.dll
+C:\Users\annug\LPUEx\Day03_Prac\Tree\tree\bin\Debug\net10.0\tree.pdb
+C:\Users\annug\LPUEx\Day03_Prac\Tree\tree\obj\Debug\net10.0\tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\LPUEx\Day03_Prac\Tree\tree\obj\Debug\net10.0\tree.AssemblyInfoInputs.cache
+C:\Users\annug\LPUEx\Day03_Prac\Tree\tree\obj\Debug\net10.0\tree.AssemblyInfo.cs
+C:\Users\annug\LPUEx\Day03_Prac\Tree\tree\obj\Debug\net10.0\tree.csproj.CoreCompileInputs.cache
+C:\Users\annug\LPUEx\Day03_Prac\Tree\tree\obj\Debug\net10.0\tree.sourcelink.json
+C:\Users\annug\LPUEx\Day03_Prac\Tree\tree\obj\Debug\net10.0\tree.dll
+C:\Users\annug\LPUEx\Day03_Prac\Tree\tree\obj\Debug\net10.0\refint\tree.dll
+C:\Users\annug\LPUEx\Day03_Prac\Tree\tree\obj\Debug\net10.0\tree.pdb
+C:\Users\annug\LPUEx\Day03_Prac\Tree\tree\obj\Debug\net10.0\tree.genruntimeconfig.cache
+C:\Users\annug\LPUEx\Day03_Prac\Tree\tree\obj\Debug\net10.0\ref\tree.dll

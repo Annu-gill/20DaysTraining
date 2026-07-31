@@ -1,0 +1,15 @@
+C:\Users\annug\LPUEx\Day02_Prac\Queue\QueuePrac\queuearray\bin\Debug\net10.0\queuearray.exe
+C:\Users\annug\LPUEx\Day02_Prac\Queue\QueuePrac\queuearray\bin\Debug\net10.0\queuearray.deps.json
+C:\Users\annug\LPUEx\Day02_Prac\Queue\QueuePrac\queuearray\bin\Debug\net10.0\queuearray.runtimeconfig.json
+C:\Users\annug\LPUEx\Day02_Prac\Queue\QueuePrac\queuearray\bin\Debug\net10.0\queuearray.dll
+C:\Users\annug\LPUEx\Day02_Prac\Queue\QueuePrac\queuearray\bin\Debug\net10.0\queuearray.pdb
+C:\Users\annug\LPUEx\Day02_Prac\Queue\QueuePrac\queuearray\obj\Debug\net10.0\queuearray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\LPUEx\Day02_Prac\Queue\QueuePrac\queuearray\obj\Debug\net10.0\queuearray.AssemblyInfoInputs.cache
+C:\Users\annug\LPUEx\Day02_Prac\Queue\QueuePrac\queuearray\obj\Debug\net10.0\queuearray.AssemblyInfo.cs
+C:\Users\annug\LPUEx\Day02_Prac\Queue\QueuePrac\queuearray\obj\Debug\net10.0\queuearray.csproj.CoreCompileInputs.cache
+C:\Users\annug\LPUEx\Day02_Prac\Queue\QueuePrac\queuearray\obj\Debug\net10.0\queuearray.sourcelink.json
+C:\Users\annug\LPUEx\Day02_Prac\Queue\QueuePrac\queuearray\obj\Debug\net10.0\queuearray.dll
+C:\Users\annug\LPUEx\Day02_Prac\Queue\QueuePrac\queuearray\obj\Debug\net10.0\refint\queuearray.dll
+C:\Users\annug\LPUEx\Day02_Prac\Queue\QueuePrac\queuearray\obj\Debug\net10.0\queuearray.pdb
+C:\Users\annug\LPUEx\Day02_Prac\Queue\QueuePrac\queuearray\obj\Debug\net10.0\queuearray.genruntimeconfig.cache
+C:\Users\annug\LPUEx\Day02_Prac\Queue\QueuePrac\queuearray\obj\Debug\net10.0\ref\queuearray.dll

@@ -1,0 +1,15 @@
+C:\Users\annug\LPUEx\20day training\Arrayprac\bin\Debug\net10.0\Arrayprac.exe
+C:\Users\annug\LPUEx\20day training\Arrayprac\bin\Debug\net10.0\Arrayprac.deps.json
+C:\Users\annug\LPUEx\20day training\Arrayprac\bin\Debug\net10.0\Arrayprac.runtimeconfig.json
+C:\Users\annug\LPUEx\20day training\Arrayprac\bin\Debug\net10.0\Arrayprac.dll
+C:\Users\annug\LPUEx\20day training\Arrayprac\bin\Debug\net10.0\Arrayprac.pdb
+C:\Users\annug\LPUEx\20day training\Arrayprac\obj\Debug\net10.0\Arrayprac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\LPUEx\20day training\Arrayprac\obj\Debug\net10.0\Arrayprac.AssemblyInfoInputs.cache
+C:\Users\annug\LPUEx\20day training\Arrayprac\obj\Debug\net10.0\Arrayprac.AssemblyInfo.cs
+C:\Users\annug\LPUEx\20day training\Arrayprac\obj\Debug\net10.0\Arrayprac.csproj.CoreCompileInputs.cache
+C:\Users\annug\LPUEx\20day training\Arrayprac\obj\Debug\net10.0\Arrayprac.sourcelink.json
+C:\Users\annug\LPUEx\20day training\Arrayprac\obj\Debug\net10.0\Arrayprac.dll
+C:\Users\annug\LPUEx\20day training\Arrayprac\obj\Debug\net10.0\refint\Arrayprac.dll
+C:\Users\annug\LPUEx\20day training\Arrayprac\obj\Debug\net10.0\Arrayprac.pdb
+C:\Users\annug\LPUEx\20day training\Arrayprac\obj\Debug\net10.0\Arrayprac.genruntimeconfig.cache
+C:\Users\annug\LPUEx\20day training\Arrayprac\obj\Debug\net10.0\ref\Arrayprac.dll
