@@ -1,0 +1,15 @@
+C:\Users\annug\20 Days Training\Day06\Sorting\Parallel Quick Sort\parallelquicksort\bin\Debug\net10.0\parallelquicksort.exe
+C:\Users\annug\20 Days Training\Day06\Sorting\Parallel Quick Sort\parallelquicksort\bin\Debug\net10.0\parallelquicksort.deps.json
+C:\Users\annug\20 Days Training\Day06\Sorting\Parallel Quick Sort\parallelquicksort\bin\Debug\net10.0\parallelquicksort.runtimeconfig.json
+C:\Users\annug\20 Days Training\Day06\Sorting\Parallel Quick Sort\parallelquicksort\bin\Debug\net10.0\parallelquicksort.dll
+C:\Users\annug\20 Days Training\Day06\Sorting\Parallel Quick Sort\parallelquicksort\bin\Debug\net10.0\parallelquicksort.pdb
+C:\Users\annug\20 Days Training\Day06\Sorting\Parallel Quick Sort\parallelquicksort\obj\Debug\net10.0\parallelquicksort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\20 Days Training\Day06\Sorting\Parallel Quick Sort\parallelquicksort\obj\Debug\net10.0\parallelquicksort.AssemblyInfoInputs.cache
+C:\Users\annug\20 Days Training\Day06\Sorting\Parallel Quick Sort\parallelquicksort\obj\Debug\net10.0\parallelquicksort.AssemblyInfo.cs
+C:\Users\annug\20 Days Training\Day06\Sorting\Parallel Quick Sort\parallelquicksort\obj\Debug\net10.0\parallelquicksort.csproj.CoreCompileInputs.cache
+C:\Users\annug\20 Days Training\Day06\Sorting\Parallel Quick Sort\parallelquicksort\obj\Debug\net10.0\parallelquicksort.sourcelink.json
+C:\Users\annug\20 Days Training\Day06\Sorting\Parallel Quick Sort\parallelquicksort\obj\Debug\net10.0\parallelquicksort.dll
+C:\Users\annug\20 Days Training\Day06\Sorting\Parallel Quick Sort\parallelquicksort\obj\Debug\net10.0\refint\parallelquicksort.dll
+C:\Users\annug\20 Days Training\Day06\Sorting\Parallel Quick Sort\parallelquicksort\obj\Debug\net10.0\parallelquicksort.pdb
+C:\Users\annug\20 Days Training\Day06\Sorting\Parallel Quick Sort\parallelquicksort\obj\Debug\net10.0\parallelquicksort.genruntimeconfig.cache
+C:\Users\annug\20 Days Training\Day06\Sorting\Parallel Quick Sort\parallelquicksort\obj\Debug\net10.0\ref\parallelquicksort.dll

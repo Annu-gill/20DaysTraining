@@ -1,0 +1,15 @@
+C:\Users\annug\20 Days Training\Day07\Real-Time Case Study - Employee Search System\employeesearch\bin\Debug\net10.0\employeesearch.exe
+C:\Users\annug\20 Days Training\Day07\Real-Time Case Study - Employee Search System\employeesearch\bin\Debug\net10.0\employeesearch.deps.json
+C:\Users\annug\20 Days Training\Day07\Real-Time Case Study - Employee Search System\employeesearch\bin\Debug\net10.0\employeesearch.runtimeconfig.json
+C:\Users\annug\20 Days Training\Day07\Real-Time Case Study - Employee Search System\employeesearch\bin\Debug\net10.0\employeesearch.dll
+C:\Users\annug\20 Days Training\Day07\Real-Time Case Study - Employee Search System\employeesearch\bin\Debug\net10.0\employeesearch.pdb
+C:\Users\annug\20 Days Training\Day07\Real-Time Case Study - Employee Search System\employeesearch\obj\Debug\net10.0\employeesearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\20 Days Training\Day07\Real-Time Case Study - Employee Search System\employeesearch\obj\Debug\net10.0\employeesearch.AssemblyInfoInputs.cache
+C:\Users\annug\20 Days Training\Day07\Real-Time Case Study - Employee Search System\employeesearch\obj\Debug\net10.0\employeesearch.AssemblyInfo.cs
+C:\Users\annug\20 Days Training\Day07\Real-Time Case Study - Employee Search System\employeesearch\obj\Debug\net10.0\employeesearch.csproj.CoreCompileInputs.cache
+C:\Users\annug\20 Days Training\Day07\Real-Time Case Study - Employee Search System\employeesearch\obj\Debug\net10.0\employeesearch.sourcelink.json
+C:\Users\annug\20 Days Training\Day07\Real-Time Case Study - Employee Search System\employeesearch\obj\Debug\net10.0\employeesearch.dll
+C:\Users\annug\20 Days Training\Day07\Real-Time Case Study - Employee Search System\employeesearch\obj\Debug\net10.0\refint\employeesearch.dll
+C:\Users\annug\20 Days Training\Day07\Real-Time Case Study - Employee Search System\employeesearch\obj\Debug\net10.0\employeesearch.pdb
+C:\Users\annug\20 Days Training\Day07\Real-Time Case Study - Employee Search System\employeesearch\obj\Debug\net10.0\employeesearch.genruntimeconfig.cache
+C:\Users\annug\20 Days Training\Day07\Real-Time Case Study - Employee Search System\employeesearch\obj\Debug\net10.0\ref\employeesearch.dll

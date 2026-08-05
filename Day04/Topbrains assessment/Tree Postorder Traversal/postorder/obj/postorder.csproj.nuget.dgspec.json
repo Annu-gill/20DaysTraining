@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Postorder Traversal\\postorder\\postorder.csproj": {}
+    "C:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Postorder Traversal\\postorder\\postorder.csproj": {}
   },
   "projects": {
-    "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Postorder Traversal\\postorder\\postorder.csproj": {
+    "C:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Postorder Traversal\\postorder\\postorder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Postorder Traversal\\postorder\\postorder.csproj",
+        "projectUniqueName": "C:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Postorder Traversal\\postorder\\postorder.csproj",
         "projectName": "postorder",
-        "projectPath": "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Postorder Traversal\\postorder\\postorder.csproj",
+        "projectPath": "C:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Postorder Traversal\\postorder\\postorder.csproj",
         "packagesPath": "C:\\Users\\annug\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Postorder Traversal\\postorder\\obj\\",
+        "outputPath": "C:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Postorder Traversal\\postorder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

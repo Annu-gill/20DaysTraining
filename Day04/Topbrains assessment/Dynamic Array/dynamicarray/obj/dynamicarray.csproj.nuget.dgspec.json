@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Dynamic Array\\dynamicarray\\dynamicarray.csproj": {}
+    "C:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Dynamic Array\\dynamicarray\\dynamicarray.csproj": {}
   },
   "projects": {
-    "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Dynamic Array\\dynamicarray\\dynamicarray.csproj": {
+    "C:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Dynamic Array\\dynamicarray\\dynamicarray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Dynamic Array\\dynamicarray\\dynamicarray.csproj",
+        "projectUniqueName": "C:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Dynamic Array\\dynamicarray\\dynamicarray.csproj",
         "projectName": "dynamicarray",
-        "projectPath": "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Dynamic Array\\dynamicarray\\dynamicarray.csproj",
+        "projectPath": "C:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Dynamic Array\\dynamicarray\\dynamicarray.csproj",
         "packagesPath": "C:\\Users\\annug\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Dynamic Array\\dynamicarray\\obj\\",
+        "outputPath": "C:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Dynamic Array\\dynamicarray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

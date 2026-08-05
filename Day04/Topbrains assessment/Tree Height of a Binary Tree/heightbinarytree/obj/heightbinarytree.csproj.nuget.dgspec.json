@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Height of a Binary Tree\\heightbinarytree\\heightbinarytree.csproj": {}
+    "C:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Height of a Binary Tree\\heightbinarytree\\heightbinarytree.csproj": {}
   },
   "projects": {
-    "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Height of a Binary Tree\\heightbinarytree\\heightbinarytree.csproj": {
+    "C:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Height of a Binary Tree\\heightbinarytree\\heightbinarytree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Height of a Binary Tree\\heightbinarytree\\heightbinarytree.csproj",
+        "projectUniqueName": "C:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Height of a Binary Tree\\heightbinarytree\\heightbinarytree.csproj",
         "projectName": "heightbinarytree",
-        "projectPath": "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Height of a Binary Tree\\heightbinarytree\\heightbinarytree.csproj",
+        "projectPath": "C:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Height of a Binary Tree\\heightbinarytree\\heightbinarytree.csproj",
         "packagesPath": "C:\\Users\\annug\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Height of a Binary Tree\\heightbinarytree\\obj\\",
+        "outputPath": "C:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Height of a Binary Tree\\heightbinarytree\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
