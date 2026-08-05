@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\annug\\20 Days Training\\Day07\\Real-Time Case Study - Employee Search System\\employeesearch\\employeesearch.csproj": {}
+    "c:\\Users\\annug\\20 Days Training\\Day07\\Recursion\\Direct Recursion\\directrecursion\\directrecursion.csproj": {}
   },
   "projects": {
-    "c:\\Users\\annug\\20 Days Training\\Day07\\Real-Time Case Study - Employee Search System\\employeesearch\\employeesearch.csproj": {
+    "c:\\Users\\annug\\20 Days Training\\Day07\\Recursion\\Direct Recursion\\directrecursion\\directrecursion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\annug\\20 Days Training\\Day07\\Real-Time Case Study - Employee Search System\\employeesearch\\employeesearch.csproj",
-        "projectName": "employeesearch",
-        "projectPath": "c:\\Users\\annug\\20 Days Training\\Day07\\Real-Time Case Study - Employee Search System\\employeesearch\\employeesearch.csproj",
+        "projectUniqueName": "c:\\Users\\annug\\20 Days Training\\Day07\\Recursion\\Direct Recursion\\directrecursion\\directrecursion.csproj",
+        "projectName": "directrecursion",
+        "projectPath": "c:\\Users\\annug\\20 Days Training\\Day07\\Recursion\\Direct Recursion\\directrecursion\\directrecursion.csproj",
         "packagesPath": "C:\\Users\\annug\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\annug\\20 Days Training\\Day07\\Real-Time Case Study - Employee Search System\\employeesearch\\obj\\",
+        "outputPath": "c:\\Users\\annug\\20 Days Training\\Day07\\Recursion\\Direct Recursion\\directrecursion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

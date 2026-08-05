@@ -1,0 +1,15 @@
+C:\Users\annug\20 Days Training\Day07\Business Case Study\businesscasestudy\bin\Debug\net10.0\businesscasestudy.exe
+C:\Users\annug\20 Days Training\Day07\Business Case Study\businesscasestudy\bin\Debug\net10.0\businesscasestudy.deps.json
+C:\Users\annug\20 Days Training\Day07\Business Case Study\businesscasestudy\bin\Debug\net10.0\businesscasestudy.runtimeconfig.json
+C:\Users\annug\20 Days Training\Day07\Business Case Study\businesscasestudy\bin\Debug\net10.0\businesscasestudy.dll
+C:\Users\annug\20 Days Training\Day07\Business Case Study\businesscasestudy\bin\Debug\net10.0\businesscasestudy.pdb
+C:\Users\annug\20 Days Training\Day07\Business Case Study\businesscasestudy\obj\Debug\net10.0\businesscasestudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\20 Days Training\Day07\Business Case Study\businesscasestudy\obj\Debug\net10.0\businesscasestudy.AssemblyInfoInputs.cache
+C:\Users\annug\20 Days Training\Day07\Business Case Study\businesscasestudy\obj\Debug\net10.0\businesscasestudy.AssemblyInfo.cs
+C:\Users\annug\20 Days Training\Day07\Business Case Study\businesscasestudy\obj\Debug\net10.0\businesscasestudy.csproj.CoreCompileInputs.cache
+C:\Users\annug\20 Days Training\Day07\Business Case Study\businesscasestudy\obj\Debug\net10.0\businesscasestudy.sourcelink.json
+C:\Users\annug\20 Days Training\Day07\Business Case Study\businesscasestudy\obj\Debug\net10.0\businesscasestudy.dll
+C:\Users\annug\20 Days Training\Day07\Business Case Study\businesscasestudy\obj\Debug\net10.0\refint\businesscasestudy.dll
+C:\Users\annug\20 Days Training\Day07\Business Case Study\businesscasestudy\obj\Debug\net10.0\businesscasestudy.pdb
+C:\Users\annug\20 Days Training\Day07\Business Case Study\businesscasestudy\obj\Debug\net10.0\businesscasestudy.genruntimeconfig.cache
+C:\Users\annug\20 Days Training\Day07\Business Case Study\businesscasestudy\obj\Debug\net10.0\ref\businesscasestudy.dll
