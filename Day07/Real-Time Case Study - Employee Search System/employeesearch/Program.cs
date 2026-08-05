@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 
+// Employee class to store employee information
 class Employee
 {
+    // Employee properties
     public int Id;
     public string Name;
     public string Department;
@@ -12,6 +14,7 @@ class Employee
     public double Salary;
     public string City;
 
+    // Constructor to initialize employee details
     public Employee(int id, string name, string department,
         string designation, int experience, double salary, string city)
     {
@@ -24,6 +27,7 @@ class Employee
         City = city;
     }
 
+    // Method to display one employee record
     public void Display()
     {
         Console.WriteLine($"{Id,-6} {Name,-18} {Department,-10} {Designation,-20} {Experience,-5} {Salary,-10} {City}");
@@ -34,6 +38,7 @@ class Program
 {
     static void Main()
     {
+        // Creating list of employees
         List<Employee> employees = new List<Employee>
         {
             new Employee(1001,"Rahul Sharma","IT","Software Engineer",2,45000,"Chennai"),
@@ -58,12 +63,14 @@ class Program
             new Employee(1020,"Deepika Rao","HR","HR Manager",8,90000,"Bangalore")
         };
 
+        // Menu runs until user selects Exit
         while (true)
         {
             Console.WriteLine("\n====================================");
             Console.WriteLine("      ABC Technologies");
             Console.WriteLine(" Employee Search Management System");
             Console.WriteLine("====================================");
+
             Console.WriteLine("1. Display All Employees");
             Console.WriteLine("2. Search by Employee ID (Linear Search)");
             Console.WriteLine("3. Search by Employee ID (Binary Search)");
@@ -73,10 +80,12 @@ class Program
             Console.WriteLine("7. Search by Experience");
             Console.WriteLine("8. Search by Salary Range");
             Console.WriteLine("9. Exit");
-            Console.Write("\nEnter your choice: ");
 
+            // Read user choice
+            Console.Write("\nEnter your choice: ");
             int choice = Convert.ToInt32(Console.ReadLine());
 
+            // Execute selected operation
             switch (choice)
             {
                 case 1:
@@ -86,36 +95,48 @@ class Program
                 case 2:
                     Console.Write("Enter Employee ID: ");
                     int id = Convert.ToInt32(Console.ReadLine());
+
+                    // Call Linear Search
                     LinearSearch(employees, id);
                     break;
 
                 case 3:
                     Console.Write("Enter Employee ID: ");
                     int bid = Convert.ToInt32(Console.ReadLine());
+
+                    // Call Binary Search
                     BinarySearch(employees, bid);
                     break;
 
                 case 4:
                     Console.Write("Enter Employee Name: ");
                     string name = Console.ReadLine();
+
+                    // Search employee by name
                     SearchByName(employees, name);
                     break;
 
                 case 5:
                     Console.Write("Enter Department: ");
                     string dept = Console.ReadLine();
+
+                    // Search employees by department
                     SearchByDepartment(employees, dept);
                     break;
 
                 case 6:
                     Console.Write("Enter City: ");
                     string city = Console.ReadLine();
+
+                    // Search employees by city
                     SearchByCity(employees, city);
                     break;
 
                 case 7:
                     Console.Write("Enter Minimum Experience: ");
                     int exp = Convert.ToInt32(Console.ReadLine());
+
+                    // Search employees by experience
                     SearchByExperience(employees, exp);
                     break;
 
@@ -126,10 +147,12 @@ class Program
                     Console.Write("Enter Maximum Salary: ");
                     double max = Convert.ToDouble(Console.ReadLine());
 
+                    // Search employees within salary range
                     SearchBySalary(employees, min, max);
                     break;
 
                 case 9:
+                    // Exit the application
                     Console.WriteLine("Thank You!");
                     return;
 
@@ -140,6 +163,7 @@ class Program
         }
     }
 
+    // Displays table heading
     static void DisplayHeader()
     {
         Console.WriteLine();
@@ -148,16 +172,21 @@ class Program
         Console.WriteLine("----------------------------------------------------------------------------------------------");
     }
 
+    // Displays all employees
     static void DisplayAll(List<Employee> employees)
     {
         DisplayHeader();
 
         foreach (Employee emp in employees)
+        {
             emp.Display();
+        }
     }
 
+    // Linear Search by Employee ID
     static void LinearSearch(List<Employee> employees, int id)
     {
+        // Check every employee one by one
         foreach (Employee emp in employees)
         {
             if (emp.Id == id)
@@ -171,8 +200,10 @@ class Program
         Console.WriteLine("Employee Not Found.");
     }
 
+    // Binary Search by Employee ID
     static void BinarySearch(List<Employee> employees, int id)
     {
+        // Binary Search requires sorted data
         List<Employee> sorted = employees.OrderBy(e => e.Id).ToList();
 
         int low = 0;
@@ -180,6 +211,7 @@ class Program
 
         while (low <= high)
         {
+            // Find middle element
             int mid = (low + high) / 2;
 
             if (sorted[mid].Id == id)
@@ -189,14 +221,21 @@ class Program
                 return;
             }
             else if (id < sorted[mid].Id)
+            {
+                // Search left half
                 high = mid - 1;
+            }
             else
+            {
+                // Search right half
                 low = mid + 1;
+            }
         }
 
         Console.WriteLine("Employee Not Found.");
     }
 
+    // Search employee by name
     static void SearchByName(List<Employee> employees, string name)
     {
         bool found = false;
@@ -205,6 +244,7 @@ class Program
 
         foreach (Employee emp in employees)
         {
+            // Partial name search
             if (emp.Name.ToLower().Contains(name.ToLower()))
             {
                 emp.Display();
@@ -216,6 +256,7 @@ class Program
             Console.WriteLine("Employee Not Found.");
     }
 
+    // Search employees by department
     static void SearchByDepartment(List<Employee> employees, string department)
     {
         bool found = false;
@@ -235,6 +276,7 @@ class Program
             Console.WriteLine("No Employees Found.");
     }
 
+    // Search employees by city
     static void SearchByCity(List<Employee> employees, string city)
     {
         bool found = false;
@@ -254,6 +296,7 @@ class Program
             Console.WriteLine("No Employees Found.");
     }
 
+    // Search employees with minimum experience
     static void SearchByExperience(List<Employee> employees, int experience)
     {
         bool found = false;
@@ -273,6 +316,7 @@ class Program
             Console.WriteLine("No Employees Found.");
     }
 
+    // Search employees within salary range
     static void SearchBySalary(List<Employee> employees, double min, double max)
     {
         bool found = false;
