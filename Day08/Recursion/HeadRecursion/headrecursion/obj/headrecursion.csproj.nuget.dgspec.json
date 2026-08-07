@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\annug\\20 Days Training\\Day08\\Recursion\\HeadRecursion\\headrecursion\\headrecursion.csproj": {}
+    "C:\\Users\\annug\\20 Days Training\\Day08\\Recursion\\HeadRecursion\\headrecursion\\headrecursion.csproj": {}
   },
   "projects": {
-    "c:\\Users\\annug\\20 Days Training\\Day08\\Recursion\\HeadRecursion\\headrecursion\\headrecursion.csproj": {
+    "C:\\Users\\annug\\20 Days Training\\Day08\\Recursion\\HeadRecursion\\headrecursion\\headrecursion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\annug\\20 Days Training\\Day08\\Recursion\\HeadRecursion\\headrecursion\\headrecursion.csproj",
+        "projectUniqueName": "C:\\Users\\annug\\20 Days Training\\Day08\\Recursion\\HeadRecursion\\headrecursion\\headrecursion.csproj",
         "projectName": "headrecursion",
-        "projectPath": "c:\\Users\\annug\\20 Days Training\\Day08\\Recursion\\HeadRecursion\\headrecursion\\headrecursion.csproj",
+        "projectPath": "C:\\Users\\annug\\20 Days Training\\Day08\\Recursion\\HeadRecursion\\headrecursion\\headrecursion.csproj",
         "packagesPath": "C:\\Users\\annug\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\annug\\20 Days Training\\Day08\\Recursion\\HeadRecursion\\headrecursion\\obj\\",
+        "outputPath": "C:\\Users\\annug\\20 Days Training\\Day08\\Recursion\\HeadRecursion\\headrecursion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

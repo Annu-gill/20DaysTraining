@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\annug\\20 Days Training\\Day08\\Recursion\\NestedRecursion\\nestedrecursion\\nestedrecursion.csproj": {}
+    "C:\\Users\\annug\\20 Days Training\\Day08\\Recursion\\NestedRecursion\\nestedrecursion\\nestedrecursion.csproj": {}
   },
   "projects": {
-    "c:\\Users\\annug\\20 Days Training\\Day08\\Recursion\\NestedRecursion\\nestedrecursion\\nestedrecursion.csproj": {
+    "C:\\Users\\annug\\20 Days Training\\Day08\\Recursion\\NestedRecursion\\nestedrecursion\\nestedrecursion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\annug\\20 Days Training\\Day08\\Recursion\\NestedRecursion\\nestedrecursion\\nestedrecursion.csproj",
+        "projectUniqueName": "C:\\Users\\annug\\20 Days Training\\Day08\\Recursion\\NestedRecursion\\nestedrecursion\\nestedrecursion.csproj",
         "projectName": "nestedrecursion",
-        "projectPath": "c:\\Users\\annug\\20 Days Training\\Day08\\Recursion\\NestedRecursion\\nestedrecursion\\nestedrecursion.csproj",
+        "projectPath": "C:\\Users\\annug\\20 Days Training\\Day08\\Recursion\\NestedRecursion\\nestedrecursion\\nestedrecursion.csproj",
         "packagesPath": "C:\\Users\\annug\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\annug\\20 Days Training\\Day08\\Recursion\\NestedRecursion\\nestedrecursion\\obj\\",
+        "outputPath": "C:\\Users\\annug\\20 Days Training\\Day08\\Recursion\\NestedRecursion\\nestedrecursion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

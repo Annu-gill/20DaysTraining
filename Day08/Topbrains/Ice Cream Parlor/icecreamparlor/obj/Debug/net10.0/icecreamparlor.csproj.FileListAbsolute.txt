@@ -1,0 +1,15 @@
+C:\Users\annug\20 Days Training\Day08\Topbrains\Ice Cream Parlor\icecreamparlor\bin\Debug\net10.0\icecreamparlor.exe
+C:\Users\annug\20 Days Training\Day08\Topbrains\Ice Cream Parlor\icecreamparlor\bin\Debug\net10.0\icecreamparlor.deps.json
+C:\Users\annug\20 Days Training\Day08\Topbrains\Ice Cream Parlor\icecreamparlor\bin\Debug\net10.0\icecreamparlor.runtimeconfig.json
+C:\Users\annug\20 Days Training\Day08\Topbrains\Ice Cream Parlor\icecreamparlor\bin\Debug\net10.0\icecreamparlor.dll
+C:\Users\annug\20 Days Training\Day08\Topbrains\Ice Cream Parlor\icecreamparlor\bin\Debug\net10.0\icecreamparlor.pdb
+C:\Users\annug\20 Days Training\Day08\Topbrains\Ice Cream Parlor\icecreamparlor\obj\Debug\net10.0\icecreamparlor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\20 Days Training\Day08\Topbrains\Ice Cream Parlor\icecreamparlor\obj\Debug\net10.0\icecreamparlor.AssemblyInfoInputs.cache
+C:\Users\annug\20 Days Training\Day08\Topbrains\Ice Cream Parlor\icecreamparlor\obj\Debug\net10.0\icecreamparlor.AssemblyInfo.cs
+C:\Users\annug\20 Days Training\Day08\Topbrains\Ice Cream Parlor\icecreamparlor\obj\Debug\net10.0\icecreamparlor.csproj.CoreCompileInputs.cache
+C:\Users\annug\20 Days Training\Day08\Topbrains\Ice Cream Parlor\icecreamparlor\obj\Debug\net10.0\icecreamparlor.sourcelink.json
+C:\Users\annug\20 Days Training\Day08\Topbrains\Ice Cream Parlor\icecreamparlor\obj\Debug\net10.0\icecreamparlor.dll
+C:\Users\annug\20 Days Training\Day08\Topbrains\Ice Cream Parlor\icecreamparlor\obj\Debug\net10.0\refint\icecreamparlor.dll
+C:\Users\annug\20 Days Training\Day08\Topbrains\Ice Cream Parlor\icecreamparlor\obj\Debug\net10.0\icecreamparlor.pdb
+C:\Users\annug\20 Days Training\Day08\Topbrains\Ice Cream Parlor\icecreamparlor\obj\Debug\net10.0\icecreamparlor.genruntimeconfig.cache
+C:\Users\annug\20 Days Training\Day08\Topbrains\Ice Cream Parlor\icecreamparlor\obj\Debug\net10.0\ref\icecreamparlor.dll
