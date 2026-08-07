@@ -1,0 +1,15 @@
+C:\Users\annug\20 Days Training\Day08\Recursion\TailRecursion\tailrecursion\bin\Debug\net10.0\tailrecursion.exe
+C:\Users\annug\20 Days Training\Day08\Recursion\TailRecursion\tailrecursion\bin\Debug\net10.0\tailrecursion.deps.json
+C:\Users\annug\20 Days Training\Day08\Recursion\TailRecursion\tailrecursion\bin\Debug\net10.0\tailrecursion.runtimeconfig.json
+C:\Users\annug\20 Days Training\Day08\Recursion\TailRecursion\tailrecursion\bin\Debug\net10.0\tailrecursion.dll
+C:\Users\annug\20 Days Training\Day08\Recursion\TailRecursion\tailrecursion\bin\Debug\net10.0\tailrecursion.pdb
+C:\Users\annug\20 Days Training\Day08\Recursion\TailRecursion\tailrecursion\obj\Debug\net10.0\tailrecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\20 Days Training\Day08\Recursion\TailRecursion\tailrecursion\obj\Debug\net10.0\tailrecursion.AssemblyInfoInputs.cache
+C:\Users\annug\20 Days Training\Day08\Recursion\TailRecursion\tailrecursion\obj\Debug\net10.0\tailrecursion.AssemblyInfo.cs
+C:\Users\annug\20 Days Training\Day08\Recursion\TailRecursion\tailrecursion\obj\Debug\net10.0\tailrecursion.csproj.CoreCompileInputs.cache
+C:\Users\annug\20 Days Training\Day08\Recursion\TailRecursion\tailrecursion\obj\Debug\net10.0\tailrecursion.sourcelink.json
+C:\Users\annug\20 Days Training\Day08\Recursion\TailRecursion\tailrecursion\obj\Debug\net10.0\tailrecursion.dll
+C:\Users\annug\20 Days Training\Day08\Recursion\TailRecursion\tailrecursion\obj\Debug\net10.0\refint\tailrecursion.dll
+C:\Users\annug\20 Days Training\Day08\Recursion\TailRecursion\tailrecursion\obj\Debug\net10.0\tailrecursion.pdb
+C:\Users\annug\20 Days Training\Day08\Recursion\TailRecursion\tailrecursion\obj\Debug\net10.0\tailrecursion.genruntimeconfig.cache
+C:\Users\annug\20 Days Training\Day08\Recursion\TailRecursion\tailrecursion\obj\Debug\net10.0\ref\tailrecursion.dll

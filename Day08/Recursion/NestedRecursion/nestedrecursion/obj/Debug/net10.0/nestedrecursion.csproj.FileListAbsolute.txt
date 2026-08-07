@@ -1,0 +1,15 @@
+C:\Users\annug\20 Days Training\Day08\Recursion\NestedRecursion\nestedrecursion\bin\Debug\net10.0\nestedrecursion.exe
+C:\Users\annug\20 Days Training\Day08\Recursion\NestedRecursion\nestedrecursion\bin\Debug\net10.0\nestedrecursion.deps.json
+C:\Users\annug\20 Days Training\Day08\Recursion\NestedRecursion\nestedrecursion\bin\Debug\net10.0\nestedrecursion.runtimeconfig.json
+C:\Users\annug\20 Days Training\Day08\Recursion\NestedRecursion\nestedrecursion\bin\Debug\net10.0\nestedrecursion.dll
+C:\Users\annug\20 Days Training\Day08\Recursion\NestedRecursion\nestedrecursion\bin\Debug\net10.0\nestedrecursion.pdb
+C:\Users\annug\20 Days Training\Day08\Recursion\NestedRecursion\nestedrecursion\obj\Debug\net10.0\nestedrecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\20 Days Training\Day08\Recursion\NestedRecursion\nestedrecursion\obj\Debug\net10.0\nestedrecursion.AssemblyInfoInputs.cache
+C:\Users\annug\20 Days Training\Day08\Recursion\NestedRecursion\nestedrecursion\obj\Debug\net10.0\nestedrecursion.AssemblyInfo.cs
+C:\Users\annug\20 Days Training\Day08\Recursion\NestedRecursion\nestedrecursion\obj\Debug\net10.0\nestedrecursion.csproj.CoreCompileInputs.cache
+C:\Users\annug\20 Days Training\Day08\Recursion\NestedRecursion\nestedrecursion\obj\Debug\net10.0\nestedrecursion.sourcelink.json
+C:\Users\annug\20 Days Training\Day08\Recursion\NestedRecursion\nestedrecursion\obj\Debug\net10.0\nestedrecursion.dll
+C:\Users\annug\20 Days Training\Day08\Recursion\NestedRecursion\nestedrecursion\obj\Debug\net10.0\refint\nestedrecursion.dll
+C:\Users\annug\20 Days Training\Day08\Recursion\NestedRecursion\nestedrecursion\obj\Debug\net10.0\nestedrecursion.pdb
+C:\Users\annug\20 Days Training\Day08\Recursion\NestedRecursion\nestedrecursion\obj\Debug\net10.0\nestedrecursion.genruntimeconfig.cache
+C:\Users\annug\20 Days Training\Day08\Recursion\NestedRecursion\nestedrecursion\obj\Debug\net10.0\ref\nestedrecursion.dll

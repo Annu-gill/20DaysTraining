@@ -1,0 +1,15 @@
+C:\Users\annug\20 Days Training\Day08\Recursion\Diagnose the Pattern\pattern\bin\Debug\net10.0\pattern.exe
+C:\Users\annug\20 Days Training\Day08\Recursion\Diagnose the Pattern\pattern\bin\Debug\net10.0\pattern.deps.json
+C:\Users\annug\20 Days Training\Day08\Recursion\Diagnose the Pattern\pattern\bin\Debug\net10.0\pattern.runtimeconfig.json
+C:\Users\annug\20 Days Training\Day08\Recursion\Diagnose the Pattern\pattern\bin\Debug\net10.0\pattern.dll
+C:\Users\annug\20 Days Training\Day08\Recursion\Diagnose the Pattern\pattern\bin\Debug\net10.0\pattern.pdb
+C:\Users\annug\20 Days Training\Day08\Recursion\Diagnose the Pattern\pattern\obj\Debug\net10.0\pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\20 Days Training\Day08\Recursion\Diagnose the Pattern\pattern\obj\Debug\net10.0\pattern.AssemblyInfoInputs.cache
+C:\Users\annug\20 Days Training\Day08\Recursion\Diagnose the Pattern\pattern\obj\Debug\net10.0\pattern.AssemblyInfo.cs
+C:\Users\annug\20 Days Training\Day08\Recursion\Diagnose the Pattern\pattern\obj\Debug\net10.0\pattern.csproj.CoreCompileInputs.cache
+C:\Users\annug\20 Days Training\Day08\Recursion\Diagnose the Pattern\pattern\obj\Debug\net10.0\pattern.sourcelink.json
+C:\Users\annug\20 Days Training\Day08\Recursion\Diagnose the Pattern\pattern\obj\Debug\net10.0\pattern.dll
+C:\Users\annug\20 Days Training\Day08\Recursion\Diagnose the Pattern\pattern\obj\Debug\net10.0\refint\pattern.dll
+C:\Users\annug\20 Days Training\Day08\Recursion\Diagnose the Pattern\pattern\obj\Debug\net10.0\pattern.pdb
+C:\Users\annug\20 Days Training\Day08\Recursion\Diagnose the Pattern\pattern\obj\Debug\net10.0\pattern.genruntimeconfig.cache
+C:\Users\annug\20 Days Training\Day08\Recursion\Diagnose the Pattern\pattern\obj\Debug\net10.0\ref\pattern.dll

@@ -1,0 +1,15 @@
+C:\Users\annug\20 Days Training\Day08\Recursion\TreeRecursion\treerecursion\bin\Debug\net10.0\treerecursion.exe
+C:\Users\annug\20 Days Training\Day08\Recursion\TreeRecursion\treerecursion\bin\Debug\net10.0\treerecursion.deps.json
+C:\Users\annug\20 Days Training\Day08\Recursion\TreeRecursion\treerecursion\bin\Debug\net10.0\treerecursion.runtimeconfig.json
+C:\Users\annug\20 Days Training\Day08\Recursion\TreeRecursion\treerecursion\bin\Debug\net10.0\treerecursion.dll
+C:\Users\annug\20 Days Training\Day08\Recursion\TreeRecursion\treerecursion\bin\Debug\net10.0\treerecursion.pdb
+C:\Users\annug\20 Days Training\Day08\Recursion\TreeRecursion\treerecursion\obj\Debug\net10.0\treerecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\20 Days Training\Day08\Recursion\TreeRecursion\treerecursion\obj\Debug\net10.0\treerecursion.AssemblyInfoInputs.cache
+C:\Users\annug\20 Days Training\Day08\Recursion\TreeRecursion\treerecursion\obj\Debug\net10.0\treerecursion.AssemblyInfo.cs
+C:\Users\annug\20 Days Training\Day08\Recursion\TreeRecursion\treerecursion\obj\Debug\net10.0\treerecursion.csproj.CoreCompileInputs.cache
+C:\Users\annug\20 Days Training\Day08\Recursion\TreeRecursion\treerecursion\obj\Debug\net10.0\treerecursion.sourcelink.json
+C:\Users\annug\20 Days Training\Day08\Recursion\TreeRecursion\treerecursion\obj\Debug\net10.0\treerecursion.dll
+C:\Users\annug\20 Days Training\Day08\Recursion\TreeRecursion\treerecursion\obj\Debug\net10.0\refint\treerecursion.dll
+C:\Users\annug\20 Days Training\Day08\Recursion\TreeRecursion\treerecursion\obj\Debug\net10.0\treerecursion.pdb
+C:\Users\annug\20 Days Training\Day08\Recursion\TreeRecursion\treerecursion\obj\Debug\net10.0\treerecursion.genruntimeconfig.cache
+C:\Users\annug\20 Days Training\Day08\Recursion\TreeRecursion\treerecursion\obj\Debug\net10.0\ref\treerecursion.dll

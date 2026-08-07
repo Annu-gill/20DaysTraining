@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\annug\\20 Days Training\\Day07\\Recursion\\Indirect Recursion\\indirectrecursion\\indirectrecursion.csproj": {}
+    "C:\\Users\\annug\\20 Days Training\\Day07\\Recursion\\Indirect Recursion\\indirectrecursion\\indirectrecursion.csproj": {}
   },
   "projects": {
-    "c:\\Users\\annug\\20 Days Training\\Day07\\Recursion\\Indirect Recursion\\indirectrecursion\\indirectrecursion.csproj": {
+    "C:\\Users\\annug\\20 Days Training\\Day07\\Recursion\\Indirect Recursion\\indirectrecursion\\indirectrecursion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\annug\\20 Days Training\\Day07\\Recursion\\Indirect Recursion\\indirectrecursion\\indirectrecursion.csproj",
+        "projectUniqueName": "C:\\Users\\annug\\20 Days Training\\Day07\\Recursion\\Indirect Recursion\\indirectrecursion\\indirectrecursion.csproj",
         "projectName": "indirectrecursion",
-        "projectPath": "c:\\Users\\annug\\20 Days Training\\Day07\\Recursion\\Indirect Recursion\\indirectrecursion\\indirectrecursion.csproj",
+        "projectPath": "C:\\Users\\annug\\20 Days Training\\Day07\\Recursion\\Indirect Recursion\\indirectrecursion\\indirectrecursion.csproj",
         "packagesPath": "C:\\Users\\annug\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\annug\\20 Days Training\\Day07\\Recursion\\Indirect Recursion\\indirectrecursion\\obj\\",
+        "outputPath": "C:\\Users\\annug\\20 Days Training\\Day07\\Recursion\\Indirect Recursion\\indirectrecursion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
