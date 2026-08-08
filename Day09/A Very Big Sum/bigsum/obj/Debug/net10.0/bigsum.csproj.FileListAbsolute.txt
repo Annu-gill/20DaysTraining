@@ -1,0 +1,15 @@
+C:\Users\annug\20 Days Training\Day09\A Very Big Sum\bigsum\bin\Debug\net10.0\bigsum.exe
+C:\Users\annug\20 Days Training\Day09\A Very Big Sum\bigsum\bin\Debug\net10.0\bigsum.deps.json
+C:\Users\annug\20 Days Training\Day09\A Very Big Sum\bigsum\bin\Debug\net10.0\bigsum.runtimeconfig.json
+C:\Users\annug\20 Days Training\Day09\A Very Big Sum\bigsum\bin\Debug\net10.0\bigsum.dll
+C:\Users\annug\20 Days Training\Day09\A Very Big Sum\bigsum\bin\Debug\net10.0\bigsum.pdb
+C:\Users\annug\20 Days Training\Day09\A Very Big Sum\bigsum\obj\Debug\net10.0\bigsum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\20 Days Training\Day09\A Very Big Sum\bigsum\obj\Debug\net10.0\bigsum.AssemblyInfoInputs.cache
+C:\Users\annug\20 Days Training\Day09\A Very Big Sum\bigsum\obj\Debug\net10.0\bigsum.AssemblyInfo.cs
+C:\Users\annug\20 Days Training\Day09\A Very Big Sum\bigsum\obj\Debug\net10.0\bigsum.csproj.CoreCompileInputs.cache
+C:\Users\annug\20 Days Training\Day09\A Very Big Sum\bigsum\obj\Debug\net10.0\bigsum.sourcelink.json
+C:\Users\annug\20 Days Training\Day09\A Very Big Sum\bigsum\obj\Debug\net10.0\bigsum.dll
+C:\Users\annug\20 Days Training\Day09\A Very Big Sum\bigsum\obj\Debug\net10.0\refint\bigsum.dll
+C:\Users\annug\20 Days Training\Day09\A Very Big Sum\bigsum\obj\Debug\net10.0\bigsum.pdb
+C:\Users\annug\20 Days Training\Day09\A Very Big Sum\bigsum\obj\Debug\net10.0\bigsum.genruntimeconfig.cache
+C:\Users\annug\20 Days Training\Day09\A Very Big Sum\bigsum\obj\Debug\net10.0\ref\bigsum.dll

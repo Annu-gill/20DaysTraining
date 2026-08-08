@@ -10,11 +10,11 @@ class HeadRecursion
             return;
         }
 
-        // Head recursion: recursive call first
-        SumDigitsReversed(n / 10);
-
-        // Print digit while returning from recursion
+        // Print current last digit first
         Console.Write(n % 10);
+
+        // Recursive call
+        SumDigitsReversed(n / 10);
     }
 
     static void Main()

@@ -1,0 +1,15 @@
+C:\Users\annug\20 Days Training\Day09\3D Surface Area\surfacearea\bin\Debug\net10.0\surfacearea.exe
+C:\Users\annug\20 Days Training\Day09\3D Surface Area\surfacearea\bin\Debug\net10.0\surfacearea.deps.json
+C:\Users\annug\20 Days Training\Day09\3D Surface Area\surfacearea\bin\Debug\net10.0\surfacearea.runtimeconfig.json
+C:\Users\annug\20 Days Training\Day09\3D Surface Area\surfacearea\bin\Debug\net10.0\surfacearea.dll
+C:\Users\annug\20 Days Training\Day09\3D Surface Area\surfacearea\bin\Debug\net10.0\surfacearea.pdb
+C:\Users\annug\20 Days Training\Day09\3D Surface Area\surfacearea\obj\Debug\net10.0\surfacearea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\20 Days Training\Day09\3D Surface Area\surfacearea\obj\Debug\net10.0\surfacearea.AssemblyInfoInputs.cache
+C:\Users\annug\20 Days Training\Day09\3D Surface Area\surfacearea\obj\Debug\net10.0\surfacearea.AssemblyInfo.cs
+C:\Users\annug\20 Days Training\Day09\3D Surface Area\surfacearea\obj\Debug\net10.0\surfacearea.csproj.CoreCompileInputs.cache
+C:\Users\annug\20 Days Training\Day09\3D Surface Area\surfacearea\obj\Debug\net10.0\surfacearea.sourcelink.json
+C:\Users\annug\20 Days Training\Day09\3D Surface Area\surfacearea\obj\Debug\net10.0\surfacearea.dll
+C:\Users\annug\20 Days Training\Day09\3D Surface Area\surfacearea\obj\Debug\net10.0\refint\surfacearea.dll
+C:\Users\annug\20 Days Training\Day09\3D Surface Area\surfacearea\obj\Debug\net10.0\surfacearea.pdb
+C:\Users\annug\20 Days Training\Day09\3D Surface Area\surfacearea\obj\Debug\net10.0\surfacearea.genruntimeconfig.cache
+C:\Users\annug\20 Days Training\Day09\3D Surface Area\surfacearea\obj\Debug\net10.0\ref\surfacearea.dll
