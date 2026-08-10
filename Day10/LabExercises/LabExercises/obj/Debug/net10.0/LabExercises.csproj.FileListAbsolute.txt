@@ -1,0 +1,15 @@
+C:\Users\annug\20 Days Training\Day10\LabExercises\LabExercises\bin\Debug\net10.0\LabExercises.exe
+C:\Users\annug\20 Days Training\Day10\LabExercises\LabExercises\bin\Debug\net10.0\LabExercises.deps.json
+C:\Users\annug\20 Days Training\Day10\LabExercises\LabExercises\bin\Debug\net10.0\LabExercises.runtimeconfig.json
+C:\Users\annug\20 Days Training\Day10\LabExercises\LabExercises\bin\Debug\net10.0\LabExercises.dll
+C:\Users\annug\20 Days Training\Day10\LabExercises\LabExercises\bin\Debug\net10.0\LabExercises.pdb
+C:\Users\annug\20 Days Training\Day10\LabExercises\LabExercises\obj\Debug\net10.0\LabExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\20 Days Training\Day10\LabExercises\LabExercises\obj\Debug\net10.0\LabExercises.AssemblyInfoInputs.cache
+C:\Users\annug\20 Days Training\Day10\LabExercises\LabExercises\obj\Debug\net10.0\LabExercises.AssemblyInfo.cs
+C:\Users\annug\20 Days Training\Day10\LabExercises\LabExercises\obj\Debug\net10.0\LabExercises.csproj.CoreCompileInputs.cache
+C:\Users\annug\20 Days Training\Day10\LabExercises\LabExercises\obj\Debug\net10.0\LabExercises.sourcelink.json
+C:\Users\annug\20 Days Training\Day10\LabExercises\LabExercises\obj\Debug\net10.0\LabExercises.dll
+C:\Users\annug\20 Days Training\Day10\LabExercises\LabExercises\obj\Debug\net10.0\refint\LabExercises.dll
+C:\Users\annug\20 Days Training\Day10\LabExercises\LabExercises\obj\Debug\net10.0\LabExercises.pdb
+C:\Users\annug\20 Days Training\Day10\LabExercises\LabExercises\obj\Debug\net10.0\LabExercises.genruntimeconfig.cache
+C:\Users\annug\20 Days Training\Day10\LabExercises\LabExercises\obj\Debug\net10.0\ref\LabExercises.dll
