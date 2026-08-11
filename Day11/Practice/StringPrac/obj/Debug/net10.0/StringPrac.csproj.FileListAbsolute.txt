@@ -1,0 +1,15 @@
+C:\Users\annug\20 Days Training\Day11\Practice\StringPrac\bin\Debug\net10.0\StringPrac.exe
+C:\Users\annug\20 Days Training\Day11\Practice\StringPrac\bin\Debug\net10.0\StringPrac.deps.json
+C:\Users\annug\20 Days Training\Day11\Practice\StringPrac\bin\Debug\net10.0\StringPrac.runtimeconfig.json
+C:\Users\annug\20 Days Training\Day11\Practice\StringPrac\bin\Debug\net10.0\StringPrac.dll
+C:\Users\annug\20 Days Training\Day11\Practice\StringPrac\bin\Debug\net10.0\StringPrac.pdb
+C:\Users\annug\20 Days Training\Day11\Practice\StringPrac\obj\Debug\net10.0\StringPrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\20 Days Training\Day11\Practice\StringPrac\obj\Debug\net10.0\StringPrac.AssemblyInfoInputs.cache
+C:\Users\annug\20 Days Training\Day11\Practice\StringPrac\obj\Debug\net10.0\StringPrac.AssemblyInfo.cs
+C:\Users\annug\20 Days Training\Day11\Practice\StringPrac\obj\Debug\net10.0\StringPrac.csproj.CoreCompileInputs.cache
+C:\Users\annug\20 Days Training\Day11\Practice\StringPrac\obj\Debug\net10.0\StringPrac.sourcelink.json
+C:\Users\annug\20 Days Training\Day11\Practice\StringPrac\obj\Debug\net10.0\StringPrac.dll
+C:\Users\annug\20 Days Training\Day11\Practice\StringPrac\obj\Debug\net10.0\refint\StringPrac.dll
+C:\Users\annug\20 Days Training\Day11\Practice\StringPrac\obj\Debug\net10.0\StringPrac.pdb
+C:\Users\annug\20 Days Training\Day11\Practice\StringPrac\obj\Debug\net10.0\StringPrac.genruntimeconfig.cache
+C:\Users\annug\20 Days Training\Day11\Practice\StringPrac\obj\Debug\net10.0\ref\StringPrac.dll
