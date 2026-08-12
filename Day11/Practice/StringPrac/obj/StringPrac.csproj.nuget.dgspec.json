@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\annug\\20 Days Training\\Day11\\Practice\\StringPrac\\StringPrac.csproj": {}
+    "C:\\Users\\annug\\20 Days Training\\Day11\\Practice\\StringPrac\\StringPrac.csproj": {}
   },
   "projects": {
-    "c:\\Users\\annug\\20 Days Training\\Day11\\Practice\\StringPrac\\StringPrac.csproj": {
+    "C:\\Users\\annug\\20 Days Training\\Day11\\Practice\\StringPrac\\StringPrac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\annug\\20 Days Training\\Day11\\Practice\\StringPrac\\StringPrac.csproj",
+        "projectUniqueName": "C:\\Users\\annug\\20 Days Training\\Day11\\Practice\\StringPrac\\StringPrac.csproj",
         "projectName": "StringPrac",
-        "projectPath": "c:\\Users\\annug\\20 Days Training\\Day11\\Practice\\StringPrac\\StringPrac.csproj",
+        "projectPath": "C:\\Users\\annug\\20 Days Training\\Day11\\Practice\\StringPrac\\StringPrac.csproj",
         "packagesPath": "C:\\Users\\annug\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\annug\\20 Days Training\\Day11\\Practice\\StringPrac\\obj\\",
+        "outputPath": "C:\\Users\\annug\\20 Days Training\\Day11\\Practice\\StringPrac\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

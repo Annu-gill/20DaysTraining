@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("preorder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f288d6ebc0586148538420bb05f8037e2ef17da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6374bcc07e43b87fdfea20f42c84696aec8befc")]
 [assembly: System.Reflection.AssemblyProductAttribute("preorder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("preorder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

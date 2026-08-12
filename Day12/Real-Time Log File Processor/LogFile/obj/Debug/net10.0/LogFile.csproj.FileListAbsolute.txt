@@ -1,0 +1,15 @@
+C:\Users\annug\20 Days Training\Day12\Real-Time Log File Processor\LogFile\bin\Debug\net10.0\LogFile.exe
+C:\Users\annug\20 Days Training\Day12\Real-Time Log File Processor\LogFile\bin\Debug\net10.0\LogFile.deps.json
+C:\Users\annug\20 Days Training\Day12\Real-Time Log File Processor\LogFile\bin\Debug\net10.0\LogFile.runtimeconfig.json
+C:\Users\annug\20 Days Training\Day12\Real-Time Log File Processor\LogFile\bin\Debug\net10.0\LogFile.dll
+C:\Users\annug\20 Days Training\Day12\Real-Time Log File Processor\LogFile\bin\Debug\net10.0\LogFile.pdb
+C:\Users\annug\20 Days Training\Day12\Real-Time Log File Processor\LogFile\obj\Debug\net10.0\LogFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annug\20 Days Training\Day12\Real-Time Log File Processor\LogFile\obj\Debug\net10.0\LogFile.AssemblyInfoInputs.cache
+C:\Users\annug\20 Days Training\Day12\Real-Time Log File Processor\LogFile\obj\Debug\net10.0\LogFile.AssemblyInfo.cs
+C:\Users\annug\20 Days Training\Day12\Real-Time Log File Processor\LogFile\obj\Debug\net10.0\LogFile.csproj.CoreCompileInputs.cache
+C:\Users\annug\20 Days Training\Day12\Real-Time Log File Processor\LogFile\obj\Debug\net10.0\LogFile.sourcelink.json
+C:\Users\annug\20 Days Training\Day12\Real-Time Log File Processor\LogFile\obj\Debug\net10.0\LogFile.dll
+C:\Users\annug\20 Days Training\Day12\Real-Time Log File Processor\LogFile\obj\Debug\net10.0\refint\LogFile.dll
+C:\Users\annug\20 Days Training\Day12\Real-Time Log File Processor\LogFile\obj\Debug\net10.0\LogFile.pdb
+C:\Users\annug\20 Days Training\Day12\Real-Time Log File Processor\LogFile\obj\Debug\net10.0\LogFile.genruntimeconfig.cache
+C:\Users\annug\20 Days Training\Day12\Real-Time Log File Processor\LogFile\obj\Debug\net10.0\ref\LogFile.dll
