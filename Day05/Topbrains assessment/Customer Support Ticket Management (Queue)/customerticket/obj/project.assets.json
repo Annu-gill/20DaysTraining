@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Customer Support Ticket Management (Queue)\\customerticket\\customerticket.csproj",
+      "projectUniqueName": "C:\\Users\\annug\\20 Days Training\\Day05\\Topbrains assessment\\Customer Support Ticket Management (Queue)\\customerticket\\customerticket.csproj",
       "projectName": "customerticket",
-      "projectPath": "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Customer Support Ticket Management (Queue)\\customerticket\\customerticket.csproj",
+      "projectPath": "C:\\Users\\annug\\20 Days Training\\Day05\\Topbrains assessment\\Customer Support Ticket Management (Queue)\\customerticket\\customerticket.csproj",
       "packagesPath": "C:\\Users\\annug\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Customer Support Ticket Management (Queue)\\customerticket\\obj\\",
+      "outputPath": "C:\\Users\\annug\\20 Days Training\\Day05\\Topbrains assessment\\Customer Support Ticket Management (Queue)\\customerticket\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Insert a Node at the Tail of a Linked List\\insertnode\\insertnode.csproj",
+      "projectUniqueName": "C:\\Users\\annug\\20 Days Training\\Day05\\Topbrains assessment\\Insert a Node at the Tail of a Linked List\\insertnode\\insertnode.csproj",
       "projectName": "insertnode",
-      "projectPath": "C:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Insert a Node at the Tail of a Linked List\\insertnode\\insertnode.csproj",
+      "projectPath": "C:\\Users\\annug\\20 Days Training\\Day05\\Topbrains assessment\\Insert a Node at the Tail of a Linked List\\insertnode\\insertnode.csproj",
       "packagesPath": "C:\\Users\\annug\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Insert a Node at the Tail of a Linked List\\insertnode\\obj\\",
+      "outputPath": "C:\\Users\\annug\\20 Days Training\\Day05\\Topbrains assessment\\Insert a Node at the Tail of a Linked List\\insertnode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

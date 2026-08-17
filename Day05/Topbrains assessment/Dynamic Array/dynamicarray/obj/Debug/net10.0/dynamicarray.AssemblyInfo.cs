@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dynamicarray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d8a0b78e41081a2f89b091f62dc3acccd755e3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8657defaffa4dec2ad747ba0806f43136940306e")]
 [assembly: System.Reflection.AssemblyProductAttribute("dynamicarray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dynamicarray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\annug\\20 Days Training\\Day06\\Searching\\Linear Search\\linearsearch\\linearsearch.csproj": {}
+    "C:\\Users\\annug\\20 Days Training\\Day07\\Searching\\Linear Search\\linearsearch\\linearsearch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\annug\\20 Days Training\\Day06\\Searching\\Linear Search\\linearsearch\\linearsearch.csproj": {
+    "C:\\Users\\annug\\20 Days Training\\Day07\\Searching\\Linear Search\\linearsearch\\linearsearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\annug\\20 Days Training\\Day06\\Searching\\Linear Search\\linearsearch\\linearsearch.csproj",
+        "projectUniqueName": "C:\\Users\\annug\\20 Days Training\\Day07\\Searching\\Linear Search\\linearsearch\\linearsearch.csproj",
         "projectName": "linearsearch",
-        "projectPath": "C:\\Users\\annug\\20 Days Training\\Day06\\Searching\\Linear Search\\linearsearch\\linearsearch.csproj",
+        "projectPath": "C:\\Users\\annug\\20 Days Training\\Day07\\Searching\\Linear Search\\linearsearch\\linearsearch.csproj",
         "packagesPath": "C:\\Users\\annug\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\annug\\20 Days Training\\Day06\\Searching\\Linear Search\\linearsearch\\obj\\",
+        "outputPath": "C:\\Users\\annug\\20 Days Training\\Day07\\Searching\\Linear Search\\linearsearch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

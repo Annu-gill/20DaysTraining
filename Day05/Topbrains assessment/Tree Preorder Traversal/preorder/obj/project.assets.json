@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Preorder Traversal\\preorder\\preorder.csproj",
+      "projectUniqueName": "C:\\Users\\annug\\20 Days Training\\Day05\\Topbrains assessment\\Tree Preorder Traversal\\preorder\\preorder.csproj",
       "projectName": "preorder",
-      "projectPath": "C:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Preorder Traversal\\preorder\\preorder.csproj",
+      "projectPath": "C:\\Users\\annug\\20 Days Training\\Day05\\Topbrains assessment\\Tree Preorder Traversal\\preorder\\preorder.csproj",
       "packagesPath": "C:\\Users\\annug\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\annug\\20 Days Training\\Day04\\Topbrains assessment\\Tree Preorder Traversal\\preorder\\obj\\",
+      "outputPath": "C:\\Users\\annug\\20 Days Training\\Day05\\Topbrains assessment\\Tree Preorder Traversal\\preorder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
